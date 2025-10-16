@@ -1,0 +1,15 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" rx="24" fill="#EEF2FF"/>
+  <rect x="60" y="60" width="680" height="330" rx="16" fill="#FFFFFF" stroke="#C7D2FE"/>
+  <rect x="90" y="100" width="260" height="60" rx="8" fill="#1E40AF"/>
+  <text x="110" y="138" font-family="Inter, Arial" font-size="24" fill="#FFFFFF">AI Education</text>
+  <rect x="90" y="180" width="260" height="180" rx="10" fill="#E0E7FF"/>
+  <circle cx="540" cy="180" r="54" fill="#DBEAFE" stroke="#93C5FD"/>
+  <text x="506" y="188" font-family="Inter, Arial" font-size="24" fill="#1E3A8A">AI</text>
+  <rect x="430" y="250" width="300" height="20" rx="6" fill="#E5E7EB"/>
+  <rect x="430" y="282" width="260" height="20" rx="6" fill="#E5E7EB"/>
+  <rect x="430" y="314" width="220" height="20" rx="6" fill="#E5E7EB"/>
+</svg>
+
+
+
